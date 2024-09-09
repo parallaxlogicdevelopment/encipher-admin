@@ -1,6 +1,0 @@
-dist: focal
-language: node_js
-node_js:
-  - 17
-
-cache: yarn
